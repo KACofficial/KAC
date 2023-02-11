@@ -3,8 +3,8 @@ h1, p, h2 {
   font-family: Arial, sans-serif;
   color: white;
 }
-background {
-  height: 50000px;
-  width: 50000px;
+div {
+  height: 100%;
+  width: 100%;
   background-color: grey;
 }
