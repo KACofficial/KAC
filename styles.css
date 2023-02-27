@@ -1,3 +1,8 @@
+h1, p, h2 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: grey;
+}
 html, body, div, span, applet, object, iframe, 
 h4, h5, h6, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -17,9 +22,4 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-}
-h1, p, h2 {
-  text-align: center;
-  font-family: Arial, sans-serif;
-  color: grey;
 }
