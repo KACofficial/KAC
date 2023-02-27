@@ -3,6 +3,9 @@ h1, p, h2 {
   font-family: Arial, sans-serif;
   color: grey;
 }
+div {
+background-color: black;
+}
 html, body, div, span, applet, object, iframe, 
 h4, h5, h6, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
